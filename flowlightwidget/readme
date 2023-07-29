@@ -1,1 +1,5 @@
-create flowlightwidget
+本组件代码在Mac系统下生成，需有qt及cmake工具
+此组件使用cmake构建，首先建立build目录，进入build目录，使用cmake ..构建该项目
+mkdir build
+cd build
+cmake ..
